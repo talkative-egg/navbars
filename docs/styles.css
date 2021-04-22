@@ -4,6 +4,7 @@
     border-radius: 30px;
     margin: auto;
     padding: 10px;
+    font-family: 'Permanent Marker', cursive;
 
     display: flex;
     flex-direction: row;
@@ -18,7 +19,7 @@
 #first a{
     color: #dafaf7;
     font-size: 25px;
-    padding: 7px;
+    padding: 3px 7px;
     margin: auto 1em auto 0;
     text-decoration: none;
     font-weight: 600;
