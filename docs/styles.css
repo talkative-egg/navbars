@@ -41,6 +41,7 @@
     border-radius: 2px;
     padding: 15px;
     margin-top: 30px;
+    font-family: 'Noto Sans', sans-serif;
 
     display: flex;
     flex-direction: row;
@@ -49,7 +50,7 @@
 
 #second h1{
     margin: auto auto auto 0.8em;
-    color: #143b69;
+    color: #08458e;
 }
 
 #second a{
