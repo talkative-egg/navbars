@@ -1,0 +1,136 @@
+#first{
+    background-color: lightpink;
+    width: 95%;
+    border-radius: 30px;
+    margin: auto;
+    padding: 10px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+#first h1{
+    color: #ddfada;
+    margin: auto auto auto 1em;
+}
+
+#first a{
+    color: #dafaf7;
+    font-size: 25px;
+    padding: 7px;
+    margin: auto 1em auto 0;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+#first .on-page{
+    color: lightpink;
+    background-color: white;
+    border-radius: 12px;
+}
+
+#first a:hover{
+    background-color: #efddd9;
+    border-radius: 12px;
+}
+
+#second{
+    background-color: #FAB95B;
+    border-radius: 2px;
+    padding: 15px;
+    margin-top: 30px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+#second h1{
+    margin: auto auto auto 0.8em;
+    color: #a7281b;
+}
+
+#second a{
+    font-size: 25px;
+    margin: auto 1em auto 0;
+    text-decoration: none;
+    color: #fa6a5b;
+    font-weight: bold;
+}
+
+#second .on-page{
+    border-bottom: 3px solid #fa6a5b;
+}
+
+#second a:hover{
+    border-bottom: 3px solid #b3b594;
+}
+
+#third{
+    background-color: #382d2d;
+    margin-top: 30px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+#third h1{
+    color: white;
+    margin: auto auto auto 1em;
+}
+
+#third a{
+    font-size: 25px;
+    margin: auto 0 auto 0;
+    text-decoration: none;
+    color: #fff;
+    padding: 15px;
+}
+
+#third .on-page{
+    background-color: #54b354;
+    color: #000;
+}
+
+#third a:hover{
+    background-color: #565656;
+}
+
+#fourth{
+    background-color: #fbf4f4;
+    margin-top: 30px;
+    border-radius: 30px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+#fourth h1{
+    margin: auto auto auto 1em;
+    color: #131377;
+}
+
+#fourth a{
+    font-size: 25px;
+    margin: 15px 0.5em 15px 0;
+    background-color: #eaeffb;
+    padding: 5px 15px;
+    border-radius: 30px;
+    text-decoration: none;
+    color: #6f6fe4;
+    border: 1px solid #eaeffb;
+}
+
+#fourth .on-page{
+    background-color: #3838b3;
+    color: #d8f2f5;
+}
+
+#fourth a:hover{
+    background-color: white;
+    color: #6f6fe4;
+    border: 1px solid #3838b3;
+}
