@@ -104,6 +104,7 @@
     background-color: #fbf4f4;
     margin-top: 30px;
     border-radius: 30px;
+    font-family: 'Lora', serif;
 
     display: flex;
     flex-direction: row;
@@ -112,12 +113,12 @@
 
 #fourth h1{
     margin: auto auto auto 1em;
-    color: #131377;
+    color: #6060bb;
 }
 
 #fourth a{
     font-size: 25px;
-    margin: 15px 0.5em 15px 0;
+    margin: 10px 0.5em 10px 0;
     background-color: #eaeffb;
     padding: 5px 15px;
     border-radius: 30px;
